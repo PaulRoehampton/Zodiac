@@ -24,7 +24,7 @@
         android:background="@color/indigo_light"
         android:padding="15dp"
         android:textSize="18sp"
-        android:text="Find Zodiac Sign" />
+        android:text="Calculate Zodiac Sign" />
 
     <ImageView
         android:id="@+id/ivZodiacSign"
