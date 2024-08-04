@@ -5,6 +5,7 @@ Zodiac Sign Calculator
 
 
 Description
+
 Zodiac Sign Calculator is a simple Android application that determines a user's zodiac sign based on their birthdate. Users can input their birthday, and with a single tap, the app calculates and displays their corresponding zodiac sign.
 
 Technologies Used
