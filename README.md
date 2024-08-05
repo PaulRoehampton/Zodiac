@@ -23,6 +23,6 @@ Users can input their birthday, and with a single tap, the app calculates and di
 
 ## Future Improvements
 
-Add more detailed information about each zodiac sign.
-Implement a feature to save and view past calculations.
-Add language localization to support multiple languages.
+* Add more detailed information about each zodiac sign.
+* Implement a feature to save and view past calculations.
+* Add language localization to support multiple languages.
